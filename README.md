@@ -1,1 +1,1 @@
-# Implementing Quran app with flutter technology using bloc architecture pattern
+# Implementing a Quran App Using Flutter with the BLoC Architecture Pattern
